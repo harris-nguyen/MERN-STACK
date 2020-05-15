@@ -20,3 +20,11 @@ https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-1-c405048e366
 - Setup Redux for global state management
 
 https://blog.bitsrc.io/build-a-login-auth-app-with-mern-stack-part-2-frontend-6eac4e38ee82
+
+# Final Part
+- Link Redux to our components
+- Display errors from our backend in our React forms
+- Create protected routes (pages only certain users can access based on their authentication)
+- Keep a user logged when they refresh or leave the page (in other words, until they either logout or the jwt expires)
+
+https://blog.bitsrc.io/build-a-login-auth-app-with-the-mern-stack-part-3-react-components-88190f8db718
