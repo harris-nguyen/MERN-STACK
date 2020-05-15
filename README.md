@@ -4,6 +4,8 @@
 - React.js
 - Node.js
 
+![MERN-STACK](gif.gif)
+
 # Backend:
 - Initialized our backend using npm and installed necessary packages
 - Set up a MongoDB database using mLab
