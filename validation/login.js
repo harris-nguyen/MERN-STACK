@@ -22,7 +22,7 @@ module.exports = function validateLoginInput(data) {
   }
 
   return {
-    errors,
+    errors: console.log('errors:', errors),
     isValid: isEmpty(errors),
   };
 };
