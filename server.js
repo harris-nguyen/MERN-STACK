@@ -39,4 +39,4 @@ app.use("/api/users", users);
 
 const port = process.env.PORT || 5000; // process.env.port is Heroku's port if you choose to deploy the app there
 
-app.listen(3000, console.log(`Port ${port} authenticated`));
+app.listen(5000, console.log(`Port ${port} authenticated`));
